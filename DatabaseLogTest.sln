@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseLogTest", "DatabaseLogTest\DatabaseLogTest.csproj", "{BE6C0121-8C3F-48FC-A961-0EDA163CC2E4}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "LogDatabase", "LogDatabase\LogDatabase.sqlproj", "{C40C6B23-DE7F-4D16-8105-59DB260D76E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6C0121-8C3F-48FC-A961-0EDA163CC2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6C0121-8C3F-48FC-A961-0EDA163CC2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6C0121-8C3F-48FC-A961-0EDA163CC2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6C0121-8C3F-48FC-A961-0EDA163CC2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40C6B23-DE7F-4D16-8105-59DB260D76E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40C6B23-DE7F-4D16-8105-59DB260D76E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40C6B23-DE7F-4D16-8105-59DB260D76E6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C40C6B23-DE7F-4D16-8105-59DB260D76E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40C6B23-DE7F-4D16-8105-59DB260D76E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40C6B23-DE7F-4D16-8105-59DB260D76E6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF18A82-09F9-4190-9D84-34BB60DB151B}
+	EndGlobalSection
+EndGlobal
